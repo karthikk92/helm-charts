@@ -35,7 +35,7 @@ images:
 # CSI driver log level
 # Allowed values: "error", "warn"/"warning", "info", "debug"
 # Default value: "info"
-logLevel: "info"
+logLevel: "debug"
 
 # certSecretCount: Represents number of certificate secrets, which user is going to create for
 # ssl authentication. (isilon-cert-0..isilon-cert-n)
